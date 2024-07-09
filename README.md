@@ -6,17 +6,17 @@ This is a classic 3x3 sliding puzzle game where players can rearrange the tiles 
 
 
 <h2>Features</h2>
-*Simple and clean UI  
-*Random puzzle generation  
-*Timer to track time taken to solve the puzzle  
-*Move counter to track the number of moves made  
-*Win detection and message  
+-Simple and clean UI<br>
+-Random puzzle generation<br>  
+-Timer to track time taken to solve the puzzle<br>  
+-Move counter to track the number of moves made<br>
+-Win detection and message  
 
 <h2>Installation</h2>
-1. Clone the repository  
-2. Navigate to the project directory  
+1. Clone the repository<br>  
+2. Navigate to the project directory<br>  
 3. Open the index.html file in your web browser to start the game.
 
 <h2>How to Play</h2>
-Click on a tile adjacent to the empty space to move it.  
-The objective is to arrange the tiles in order from 1 to 8, with the empty space in the bottom right corner.
+-Click on a tile adjacent to the empty space to move it.<br>  
+-The objective is to arrange the tiles in order from 1 to 8, with the empty space in the bottom right corner.
